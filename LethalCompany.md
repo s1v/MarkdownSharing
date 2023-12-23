@@ -17,4 +17,4 @@
 ![image](https://github.com/s1v/MarkdownSharing/assets/20382337/47719f22-6722-445a-ab19-6fb26b105c7e)
 
 ## TSMMの右上にある"Modded"をクリックしてゲーム起動
-![image](https://github.com/s1v/MarkdownSharing/assets/20382337/17f858c9-2f5f-4b44-a6dd-1346d9f1ef72)
+![image](https://github.com/s1v/MarkdownSharing/assets/20382337/fc31e893-a141-473f-be61-8ce07424f5af)
